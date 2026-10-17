@@ -1,6 +1,6 @@
 ---
 title: "BAN 3083 - Week 2: Reading & Auditing Raw Business Data"
-author: "Student Name: [Type Your Name Here]"
+author: "Student Name: Andres Hernandez"
 date: "`r Sys.Date()`"
 output:
   html_document:
